@@ -23,8 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/uju-chinedum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uju-chinedum" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18102026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18102026" height="30" width="40" /></a>
-<a href="https://kaggle.com/savadow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="savadow" height="30" width="40" /></a>
+<a href="https://x.com/DevNedum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="18102026" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,9 +35,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uju-chinedum&" alt="uju-chinedum" /></p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2mybftxebckj6tm26yfvrdxhv&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=2mybftxebckj6tm26yfvrdxhv&redirect=true)
-
 <!---
-Savadow/Savadow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Uju-Chinedum/Uju-Chinedum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
