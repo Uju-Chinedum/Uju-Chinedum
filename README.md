@@ -12,11 +12,9 @@
   <img src="https://shields.io/badge/GraphQL-e434aa?style=for-the-badge&logo=graphql&logoColor=white%22" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uju-chinedum" alt="uju-chinedum" /></a> </p>
+- 🌱 I’m currently learning **TypeScript** and **NestJs**
 
-- 🌱 I’m currently learning **TypeScript** and **GraphQL**
-
-- 💬 Ask me about **Python, Node.js and also life😂😎**
+- 💬 Ask me about **Anime, Music and also life😂😎**
 
 - 📫 How to reach me **ujuchimaraoke@gmail.com**
 
