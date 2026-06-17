@@ -1,55 +1,110 @@
-<h1 align="center">Hi 👋, I'm Nedum</h1>
-<h3 align="center">Backend Engineer designing the systems behind modern applications</h3>
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/-Backend%20Engineer-0A0F1E?style=for-the-badge&logoColor=6366F1" alt="Backend Engineer"/>
 
-### 🚀 Tech Stack
+<h1>nedum_</h1>
+
+<h3>Designing the systems behind modern applications</h3>
+
+<a href="https://uju-chinedum.github.io/"><img src="https://img.shields.io/badge/Portfolio-0A0F1E?style=for-the-badge&logo=vercel&logoColor=6366F1" alt="Portfolio"/></a>
+<a href="https://x.com/DevNedum"><img src="https://img.shields.io/badge/X-0A0F1E?style=for-the-badge&logo=x&logoColor=6366F1" alt="X"/></a>
+<a href="https://linkedin.com/in/uju-chinedum"><img src="https://img.shields.io/badge/LinkedIn-0A0F1E?style=for-the-badge&logo=linkedin&logoColor=6366F1" alt="LinkedIn"/></a>
+<a href="mailto:ujuchimaraoke@gmail.com"><img src="https://img.shields.io/badge/Email-0A0F1E?style=for-the-badge&logo=gmail&logoColor=6366F1" alt="Email"/></a>
+
+</div>
+
+<br>
+
+### `>_` about
+
+Backend engineer specialising in real-time systems, scalable APIs, and production-grade SaaS infrastructure. I build with NestJS, TypeScript, and PostgreSQL — things that scale without breaking and stay alive at 3am.
+
+Currently **open to full-time roles and contract work**.
+
+🌱 Currently building backend systems with **TypeScript & NestJS**, and going deeper into **system design and scalable architecture**.
+
+💬 Ask me about backend architecture, APIs, anime, books, and music.
+
+<br>
+
+### `>_` stack
 
 <p>
-  <img src="https://shields.io/badge/TypeScript-316192?style=for-the-badge&logo=typescript&logoColor=white%22" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-0A0F1E?style=for-the-badge&logo=typescript&logoColor=6366F1" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Node.js-0A0F1E?style=for-the-badge&logo=nodedotjs&logoColor=6366F1" alt="Node.js"/>
+<img src="https://img.shields.io/badge/NestJS-0A0F1E?style=for-the-badge&logo=nestjs&logoColor=6366F1" alt="NestJS"/>
+<img src="https://img.shields.io/badge/Express-0A0F1E?style=for-the-badge&logo=express&logoColor=6366F1" alt="Express"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0A0F1E?style=for-the-badge&logo=postgresql&logoColor=6366F1" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MongoDB-0A0F1E?style=for-the-badge&logo=mongodb&logoColor=6366F1" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Redis-0A0F1E?style=for-the-badge&logo=redis&logoColor=6366F1" alt="Redis"/>
+<img src="https://img.shields.io/badge/Prisma-0A0F1E?style=for-the-badge&logo=prisma&logoColor=6366F1" alt="Prisma"/>
+<img src="https://img.shields.io/badge/Python-0A0F1E?style=for-the-badge&logo=python&logoColor=6366F1" alt="Python"/>
+<img src="https://img.shields.io/badge/Git-0A0F1E?style=for-the-badge&logo=git&logoColor=6366F1" alt="Git"/>
+<img src="https://img.shields.io/badge/Postman-0A0F1E?style=for-the-badge&logo=postman&logoColor=6366F1" alt="Postman"/>
 </p>
 
----
+<br>
 
-### 🌱 Currently
+### `>_` projects
 
-- Building backend systems with **TypeScript & NestJS**
-- Learning more about **system design and scalable architectures**
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+**TicXpress** — event ticketing platform
+Full ticket lifecycle from purchase to entry validation. Dual-currency payments (fiat + crypto) with QR-based verification.
+`NestJS` `PostgreSQL` `Sequelize` `JWT`
+[Live](https://ticxpress-server.onrender.com) · [Code](https://github.com/Uju-Chinedum/TicXpress-Server)
 
-### 💬 Ask me about
+</td>
+<td width="50%" valign="top">
 
-Backend architecture, APIs, anime, books, and music.
+**Prysm** — SaaS backend platform
+Production-ready multi-tenant architecture with isolated workspaces and shared infrastructure.
+`NestJS` `Prisma` `PostgreSQL` `Redis`
+[Live](https://prysm-4scl.onrender.com) · [Code](https://github.com/Uju-Chinedum/Prysm)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 📫 Connect with me
+**ChopBeta** — food ordering platform
+Sole backend engineer. Real-time order and rider tracking with live notifications, end-to-end Paystack integration.
+`NestJS` `WebSockets` `Redis` `Paystack`
 
-- LinkedIn: https://linkedin.com/in/uju-chinedum  
-- X: https://x.com/DevNedum
-- Email: **ujuchimaraoke@gmail.com**
+</td>
+<td width="50%" valign="top">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/uju-chinedum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uju-chinedum" height="30" width="40" /></a>
-<a href="https://x.com/DevNedum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="18102026" height="30" width="40" /></a>
-</p>
+**Wellat** — wallet & fintech platform
+Built the admin layer — secure endpoints and granular role-based access control for multi-role operations.
+`NestJS` `RBAC` `TypeScript`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</td>
+</tr>
+</table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uju-chinedum&show_icons=true&locale=en&layout=compact" alt="uju-chinedum" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uju-chinedum&show_icons=true&locale=en" alt="uju-chinedum" /></p>
+### `>_` activity
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uju-chinedum&" alt="uju-chinedum" /></p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Uju-Chinedum&show_icons=true&hide_border=true&bg_color=0A0F1E&title_color=6366F1&icon_color=6366F1&text_color=94A3B8&ring_color=6366F1" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Uju-Chinedum&hide_border=true&background=0A0F1E&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=94A3B8&currStreakNum=F1F5F9&sideNums=F1F5F9&dates=475569" alt="GitHub streak" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uju-Chinedum&layout=compact&hide_border=true&bg_color=0A0F1E&title_color=6366F1&text_color=94A3B8&langs_count=8" alt="Top languages" height="165"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+*"There's Order in Chaos and Chaos in Order"*
+
+</div>
 
 <!---
-Uju-Chinedum/Uju-Chinedum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Uju-Chinedum/Uju-Chinedum is a special repository because its README.md (this file) appears on your GitHub profile.
 --->
