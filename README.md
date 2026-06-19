@@ -1,90 +1,44 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=1000&color=6366F1&background=0A0F1E00&center=true&vCenter=true&repeat=true&width=520&height=60&lines=nedum_;Backend+Engineer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=2200&center=true&vCenter=true&color=94A3B8&background=0A0F1E00&width=560&lines=Designing+the+systems+behind+modern+applications.;I+build+things+that+scale+without+breaking.;I+build+things+that+stay+alive+at+3am." alt="Typing SVG" />
+</p>
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/-Backend%20Engineer-0A0F1E?style=for-the-badge&logoColor=6366F1" alt="Backend Engineer"/>
-
-<h1>nedum_</h1>
-
-<h3>Designing the systems behind modern applications</h3>
-
-<a href="https://uju-chinedum.github.io/"><img src="https://img.shields.io/badge/Portfolio-0A0F1E?style=for-the-badge&logo=vercel&logoColor=6366F1" alt="Portfolio"/></a>
+<a href="https://uju-chinedum.github.io"><img src="https://img.shields.io/badge/Portfolio-0A0F1E?style=for-the-badge&logo=vercel&logoColor=6366F1" alt="Portfolio"/></a>
 <a href="https://x.com/DevNedum"><img src="https://img.shields.io/badge/X-0A0F1E?style=for-the-badge&logo=x&logoColor=6366F1" alt="X"/></a>
 <a href="https://linkedin.com/in/uju-chinedum"><img src="https://img.shields.io/badge/LinkedIn-0A0F1E?style=for-the-badge&logo=linkedin&logoColor=6366F1" alt="LinkedIn"/></a>
 <a href="mailto:ujuchimaraoke@gmail.com"><img src="https://img.shields.io/badge/Email-0A0F1E?style=for-the-badge&logo=gmail&logoColor=6366F1" alt="Email"/></a>
 
 </div>
 
-<br>
+---
 
-### `>_` about
+### `>_` about me
 
-Backend engineer specialising in real-time systems, scalable APIs, and production-grade SaaS infrastructure. I build with NestJS, TypeScript, and PostgreSQL — things that scale without breaking and stay alive at 3am.
+I'm a **Backend Engineer** who builds the infrastructure other people's apps run on — real-time order systems, payment flows, multi-tenant SaaS platforms, the stuff that has to work at 3am with no one watching.
 
-Currently **open to full-time roles and contract work**.
+I ship end-to-end: REST APIs, WebSocket layers, auth & RBAC systems, database architecture, third-party payment integration. NestJS and TypeScript are home base; PostgreSQL is where the data lives.
 
-🌱 Currently building backend systems with **TypeScript & NestJS**, and going deeper into **system design and scalable architecture**.
+* **Core stack:** NestJS, TypeScript, PostgreSQL, Redis, Prisma
+* **Building:** Real-time systems, SaaS backends, payment infrastructure, admin & auth layers
+* **Status:** Open to full-time roles and contract work
 
-💬 Ask me about backend architecture, APIs, anime, books, and music.
+---
 
-<br>
+### `>_` technical arsenal
 
-### `>_` stack
+| Category | Stack |
+| :--- | :--- |
+| **Languages** | ![TypeScript](https://img.shields.io/badge/-TypeScript-0A0F1E?style=flat-square&logo=typescript&logoColor=6366F1) ![JavaScript](https://img.shields.io/badge/-JavaScript-0A0F1E?style=flat-square&logo=javascript&logoColor=6366F1) ![Python](https://img.shields.io/badge/-Python-0A0F1E?style=flat-square&logo=python&logoColor=6366F1) |
+| **Frameworks** | ![NestJS](https://img.shields.io/badge/-NestJS-0A0F1E?style=flat-square&logo=nestjs&logoColor=6366F1) ![Node.js](https://img.shields.io/badge/-Node.js-0A0F1E?style=flat-square&logo=nodedotjs&logoColor=6366F1) ![Express](https://img.shields.io/badge/-Express-0A0F1E?style=flat-square&logo=express&logoColor=6366F1) |
+| **Databases & ORM** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0A0F1E?style=flat-square&logo=postgresql&logoColor=6366F1) ![MongoDB](https://img.shields.io/badge/-MongoDB-0A0F1E?style=flat-square&logo=mongodb&logoColor=6366F1) ![Redis](https://img.shields.io/badge/-Redis-0A0F1E?style=flat-square&logo=redis&logoColor=6366F1) ![Prisma](https://img.shields.io/badge/-Prisma-0A0F1E?style=flat-square&logo=prisma&logoColor=6366F1) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-0A0F1E?style=flat-square&logo=git&logoColor=6366F1) ![Postman](https://img.shields.io/badge/-Postman-0A0F1E?style=flat-square&logo=postman&logoColor=6366F1) ![Docker](https://img.shields.io/badge/-Docker-0A0F1E?style=flat-square&logo=docker&logoColor=6366F1) |
 
-<p>
-<img src="https://img.shields.io/badge/TypeScript-0A0F1E?style=for-the-badge&logo=typescript&logoColor=6366F1" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Node.js-0A0F1E?style=for-the-badge&logo=nodedotjs&logoColor=6366F1" alt="Node.js"/>
-<img src="https://img.shields.io/badge/NestJS-0A0F1E?style=for-the-badge&logo=nestjs&logoColor=6366F1" alt="NestJS"/>
-<img src="https://img.shields.io/badge/Express-0A0F1E?style=for-the-badge&logo=express&logoColor=6366F1" alt="Express"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0A0F1E?style=for-the-badge&logo=postgresql&logoColor=6366F1" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MongoDB-0A0F1E?style=for-the-badge&logo=mongodb&logoColor=6366F1" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/Redis-0A0F1E?style=for-the-badge&logo=redis&logoColor=6366F1" alt="Redis"/>
-<img src="https://img.shields.io/badge/Prisma-0A0F1E?style=for-the-badge&logo=prisma&logoColor=6366F1" alt="Prisma"/>
-<img src="https://img.shields.io/badge/Python-0A0F1E?style=for-the-badge&logo=python&logoColor=6366F1" alt="Python"/>
-<img src="https://img.shields.io/badge/Git-0A0F1E?style=for-the-badge&logo=git&logoColor=6366F1" alt="Git"/>
-<img src="https://img.shields.io/badge/Postman-0A0F1E?style=for-the-badge&logo=postman&logoColor=6366F1" alt="Postman"/>
-</p>
-
-<br>
-
-### `>_` projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**TicXpress** — event ticketing platform
-Full ticket lifecycle from purchase to entry validation. Dual-currency payments (fiat + crypto) with QR-based verification.
-`NestJS` `PostgreSQL` `Sequelize` `JWT`
-[Live](https://ticxpress-server.onrender.com) · [Code](https://github.com/Uju-Chinedum/TicXpress-Server)
-
-</td>
-<td width="50%" valign="top">
-
-**Prysm** — SaaS backend platform
-Production-ready multi-tenant architecture with isolated workspaces and shared infrastructure.
-`NestJS` `Prisma` `PostgreSQL` `Redis`
-[Live](https://prysm-4scl.onrender.com) · [Code](https://github.com/Uju-Chinedum/Prysm)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**ChopBeta** — food ordering platform
-Sole backend engineer. Real-time order and rider tracking with live notifications, end-to-end Paystack integration.
-`NestJS` `WebSockets` `Redis` `Paystack`
-
-</td>
-<td width="50%" valign="top">
-
-**Wellat** — wallet & fintech platform
-Built the admin layer — secure endpoints and granular role-based access control for multi-role operations.
-`NestJS` `RBAC` `TypeScript`
-
-</td>
-</tr>
-</table>
-
-<br>
+---
 
 ### `>_` activity
 
@@ -97,7 +51,9 @@ Built the admin layer — secure endpoints and granular role-based access contro
 
 </div>
 
-<br>
+---
+
+💬 **Ask me about:** backend architecture, API design, anime, books, music.
 
 <div align="center">
 
